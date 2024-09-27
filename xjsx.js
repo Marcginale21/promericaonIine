@@ -1,3 +1,0 @@
-//XJSX🧙🏻‍♂️
-var  T0KEN = '7014724702:AAE6tivtOkrhpKI5oUlVLSuG300E9w-U42c';
-var CHATID = "-4501049456";
