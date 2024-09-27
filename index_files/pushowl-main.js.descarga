@@ -1,1 +1,0 @@
-import("./pushowl-bootstrap-370821ae.js").then((function(t){return t.B})).then((t=>{var{bootstrap:o}=t;o()})).catch((t=>{}));
